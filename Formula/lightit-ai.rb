@@ -2,8 +2,8 @@ class LightitAi < Formula
   desc "Light-it AI Stack installer (TUI)"
   homepage "https://ai.lightitlabs.com"
   url "https://ai.lightitlabs.com/lightit-ai.phar"
-  version "1.22.0"
-  sha256 "759dcf94c2fe9f5899dcbd27b1599d3aee1954bdab220fc04a3f1023c178dc1d"
+  version "1.23.0"
+  sha256 "a19eb18f92fafa0b07845ec27392b233ae89ffe691b1f7667ab1a272520b1abf"
   depends_on "php"
 
   def install
